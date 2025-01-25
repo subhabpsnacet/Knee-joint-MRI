@@ -1,6 +1,6 @@
 Dataset Guidelines
 Dataset Access:
-"The dataset can be accessed at [link]. It consists of 100 MRI images.
+"The dataset can be accessed at [link].
 
 Data Structure:
 "Each image is labeled with its corresponding OA grade (e.g., Grade 0, 1, 2, 3, or 4). Images are stored in .jpg format with the associated labels provided in a labels.csv file."
